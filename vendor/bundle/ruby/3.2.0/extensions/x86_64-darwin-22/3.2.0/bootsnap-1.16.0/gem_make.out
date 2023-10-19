@@ -1,0 +1,18 @@
+current directory: /Users/syuyatokushige/sample_rails/environment/sample_rails/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/syuyatokushige/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/syuyatokushige/sample_rails/environment/sample_rails/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231019-35378-jy7qw5 sitelibdir\=./.gem.20231019-35378-jy7qw5 clean
+
+current directory: /Users/syuyatokushige/sample_rails/environment/sample_rails/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231019-35378-jy7qw5 sitelibdir\=./.gem.20231019-35378-jy7qw5
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/syuyatokushige/sample_rails/environment/sample_rails/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231019-35378-jy7qw5 sitelibdir\=./.gem.20231019-35378-jy7qw5 install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20231019-35378-jy7qw5/bootsnap
+
+current directory: /Users/syuyatokushige/sample_rails/environment/sample_rails/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231019-35378-jy7qw5 sitelibdir\=./.gem.20231019-35378-jy7qw5 clean
